@@ -1,2 +1,2 @@
-# kaso-portfolin
+# kaso-portfolio
 KASO Personal Portfolio Website
